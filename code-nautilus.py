@@ -13,7 +13,7 @@ import os
 VSCODE = 'codium'
 
 # what name do you want to see in the context menu?
-VSCODENAME = 'Codium'
+VSCODENAME = 'Cod_ium'
 
 # always create new window?
 NEWWINDOW = False
